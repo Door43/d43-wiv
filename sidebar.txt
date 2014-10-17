@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wiv:home|Door43 (wiv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wiv|d43-wiv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wiv/archive/master.zip|d43-wiv.zip]]
+
+**Recent Changes**
+{{changes>ns = wiv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wiv|Ethnologue data]]
+
